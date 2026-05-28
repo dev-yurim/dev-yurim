@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Yurim!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F8D7DA&height=120&section=header"/>
+
+# 👋 Hi, I'm Yurim
+
 
 ### 🚀 Frontend Developer | Video Editor 
 
