@@ -36,7 +36,7 @@
 
 ## 📫 Contact
 
-* Email : [your@email.com](mailto: dev.yurim@gmail.com)
+* Email : dev.yurim@gmail.com
 
 ---
 
