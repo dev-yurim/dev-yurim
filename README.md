@@ -26,14 +26,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-yurim\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yurim\&layout=compact)
-
----
-
 ## 🌱 Currently Learning
 
 * HTML
