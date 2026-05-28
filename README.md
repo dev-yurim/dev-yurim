@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yurim!
 
-### 🚀 Frontend Developer | Video Editor |
+### 🚀 Frontend Developer | Video Editor 
 
 안녕하세요!
 비전공자로 개발을 시작했지만, 새로운 것을 배우고 직접 만들어가는 과정에 큰 재미를 느끼고 있습니다.
