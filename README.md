@@ -1,5 +1,5 @@
 ## Hi there 👋
-###My name is yurim!
+My name is yurim!
 
 <!--
 **dev-yurim/dev-yurim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
